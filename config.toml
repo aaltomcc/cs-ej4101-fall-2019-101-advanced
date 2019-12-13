@@ -1,4 +1,39 @@
 baseURL = "https://aaltomcc.github.io/cs-ej4101-fall-2019-101-advanced/"
-languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "introduction"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Sanna Lun"
+title = "cs-ej4101-fall-2019-101-advanced"
+theme = "hugo-goa"
+
+## Site settings
+[params]
+author = "Sanna Lun"
+intro = "Hello"
+description = "Description"
+dateformat = "Jan 2, 2006"
+
+## Main Menu
+[[menu.main]]
+    name = "Home"
+    weight = 1
+    identifier = "home"
+    url = "/"
+[[menu.main]]
+    name = "posts"
+    weight = 2
+    identifier = "posts"
+    url = "/posts/"
+
+## Extras
+[params.extra]
+poweredby = true
+highlightjs = true
+socialmarkup = true
+toc = true
+displayrssicon = false
