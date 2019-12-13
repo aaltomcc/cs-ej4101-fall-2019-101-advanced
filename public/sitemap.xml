@@ -1,32 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>http://example.org/blog/</loc>
-    <lastmod>2019-12-13T09:46:18+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/blog/firstblogpost/</loc>
-    <lastmod>2019-12-13T09:47:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2019-12-13T09:47:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/home/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/</loc>
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>http://example.com/es/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>http://example.com/de/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>http://example.com/en/sitemap.xml</loc>
+		
+	</sitemap>
+	
+</sitemapindex>
