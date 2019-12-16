@@ -14,21 +14,24 @@ theme = "hugo-goa"
 ## Site settings
 [params]
 author = "Sanna Lun"
-intro = "Hello"
+intro = "Hongkonger living in Finland"
+authorimage = "046b530537225123bd842e3e6980d0ad.jpg"
 description = "Description"
 dateformat = "Jan 2, 2006"
 
 ## Main Menu
 [[menu.main]]
-    name = "Home"
-    weight = 1
-    identifier = "home"
-    url = "/"
-[[menu.main]]
     name = "posts"
-    weight = 2
+    weight = 1
     identifier = "posts"
     url = "/posts/"
+
+
+## Social accounts 
+[params.social]
+github = "moisanna"
+email = "tin.lun@aalto.fi"
+goodreads = "sannalun"
 
 ## Extras
 [params.extra]
