@@ -13,4 +13,4 @@ This course has also opened my eyes to one of the continuous development tool - 
 I have also learnt about Hugo - a static website generation tool. Since I am quite used to build website the traditional way - with basic HTML and CSS or content management system - I feel that I am not a very big fan of solutions like Hugo. Since it involves using the command line quite a lot, so I am not sure whether I would recommend it to my friend who are starting out in web development. Nonetheless, I think it is a great tool for those who just want to be able to create and publish website quickly, and for those who are not very particular about the design of the website.
 
 By the way, please meet my learning assistant.
-![assistant](/blog/thatface.jpeg)
+![assistant](thatface.jpeg)
