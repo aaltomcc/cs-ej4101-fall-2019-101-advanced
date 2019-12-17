@@ -1,3 +1,20 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL                         = "https://aaltomcc.github.io/"
+languageCode                    = "en-us"
+title                           = "My New Hugo Site"
+theme                           = "introduction"
+DefaultContentLanguage          = "en"
+
+[params]
+    themeStyle                  = "light"
+    fadeIn                      = "true"
+    dateFormat                  = "Jan 2, 2006"
+    email                       = "tin.lun@aalto.fi"
+
+    [params.home]
+        introHeight             = "fullheight"
+        showLatest              = true
+        showAllPOsts            = false
+        localTime               = true
+        timeZone                = "Europe/Helsinki"
+        timeFormat              = "hh:mm"
+    
