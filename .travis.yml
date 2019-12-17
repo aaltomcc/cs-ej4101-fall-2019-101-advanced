@@ -11,10 +11,6 @@ deploy:
     github_token: $github_token
     keep_history: true
     local_dir: public
+    target_branch: gh-pages
     on:
       branch: master
-      # Build all branches, *including* gh-pages:
-branches:
-  only:
-    - gh-pages
-    - /.*/
