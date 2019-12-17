@@ -1,0 +1,47 @@
+baseURL = "https://aaltomcc.github.io/cs-ej4101-fall-2019-101-advanced/"
+languageCode = "en-us"
+title = "Sanna"
+theme = "mediumish-gohugo-theme"
+summaryLength = 25
+enableEmoji = true
+publishDir = "docs"
+
+[params]
+
+  description ="Welcome to my blog"
+  #mailchimp = "you can provide a mailchimp-link here"
+
+[params.author]
+  name = "Sanna"
+  thumbnail = "/images/author.png"
+  description = "Creator of this blog."
+
+[params.index]
+  picture = "/images/author.jpg"
+  title = "Sanna Lun"
+  subtitle = "I'm a unique placeholder. Working here and there!"
+  mdtext = '''
+Currently trying to get this blog running, still don't know what the blog will be about!\
+**This textblock is a demonstration of the mdtext-param.**\
+### This is a markdown heading
+'''
+  alertbar = false
+
+[params.social]
+  github = "<username>"
+  linkedin = "<username>"
+  xing = "<username>"
+  medium = "<username>"
+  twitter = "<username>"
+
+## Main Menu
+[[menu.main]]
+    name = "Blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog"
+[[menu.main]]
+    name = "About Me"
+    identifier = "about"
+    weight = 200
+    url = "/"
