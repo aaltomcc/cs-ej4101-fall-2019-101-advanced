@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://aaltomcc.github.io/</link>
+    <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-101-advanced/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Dec 2019 11:48:40 +0200</lastBuildDate>
     
-	<atom:link href="https://aaltomcc.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aaltomcc.github.io/cs-ej4101-fall-2019-101-advanced/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Learning</title>
-      <link>https://aaltomcc.github.io/blog/learning/</link>
+      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-101-advanced/blog/learning/</link>
       <pubDate>Tue, 17 Dec 2019 11:48:40 +0200</pubDate>
       
-      <guid>https://aaltomcc.github.io/blog/learning/</guid>
+      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-101-advanced/blog/learning/</guid>
       <description>In the beginning, the buzzword “DevOps” did not mean so much to me and I had no idea what to expect from this course apart from deciphering the word itself. I merely know that it was something everyone seemed to worship about. However, after learning more about it, I understand why there are so many advocates for it.
 I think DevOps is a very good way to implement continuous integration and continuous deployment to streamline the development process.</description>
     </item>
     
     <item>
       <title>This Course 101</title>
-      <link>https://aaltomcc.github.io/blog/thiscourse/</link>
+      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-101-advanced/blog/thiscourse/</link>
       <pubDate>Tue, 17 Dec 2019 11:46:35 +0200</pubDate>
       
-      <guid>https://aaltomcc.github.io/blog/thiscourse/</guid>
+      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-101-advanced/blog/thiscourse/</guid>
       <description>This course cs-ej4101-fall-2019-XXX-advanced caught my yee because:
  I knew every little about it and it seemed to be a very hot topic in the field I believed this course might help me improve my development practices  From my very limited experience with web development, I have notice how unorganised/poorly-managed development process can diminish the development outcome. For example, when testing was not done in a continuous manner, I might end up finding some silly bugs after I code up all the files.</description>
     </item>
     
     <item>
       <title>Sanna</title>
-      <link>https://aaltomcc.github.io/home/</link>
+      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-101-advanced/home/</link>
       <pubDate>Tue, 17 Dec 2019 11:09:12 +0200</pubDate>
       
-      <guid>https://aaltomcc.github.io/home/</guid>
+      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-101-advanced/home/</guid>
       <description>Hi there</description>
     </item>
     
