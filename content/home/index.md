@@ -1,7 +1,7 @@
 ---
-title: "Sanna"
+title: "Hello"
 date: 2019-12-17T11:09:12+02:00
 draft: false
 ---
 
-Hi there
+My name is Sanna
