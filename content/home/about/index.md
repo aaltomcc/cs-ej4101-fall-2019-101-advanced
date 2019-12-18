@@ -15,8 +15,8 @@ Currently, I am trying to learn more via courses on [FiTech](https://fitech.io/e
 
 Here are two blog posts about one of the courses that I'm currently working on:
 
-- [This course cs-ej4101-fall-2019-XXX-advanced](/blog/thiscourse)
-- [Learning](/blog/learning)
+- [This course cs-ej4101-fall-2019-XXX-advanced](blog/thiscourse)
+- [Learning](blog/learning)
 
 Tech stuff aside, I like reading fiction, knitting, crocheting, running and binging on cat videos. Oh, I would like to intro to you my cat friend, his name is Riesa, which - as I'm told - means "pain in the ass" in Finnish. He got this name because he likes to poop _next to_ the litter box rather than _in_ it. :D
 
