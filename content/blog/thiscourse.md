@@ -4,7 +4,7 @@ date: 2019-12-17T11:46:35+02:00
 draft: false
 ---
 
-This course **cs-ej4101-fall-2019-XXX-advanced** caught my yee because:
+This course **cs-ej4101-fall-2019-101-advanced** caught my eye because:
 
 - I knew every little about it and it seemed to be a very hot topic in the field
 - I believed this course might help me improve my development practices
